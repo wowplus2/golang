@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-// struct 정의
+// struct 정의 : 필드들의 집합체
 type person struct {
 	name	string
 	age	int
