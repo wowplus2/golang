@@ -5,6 +5,7 @@ import (
 	"time"
 	"io/ioutil"
 	"log"
+	"golang.org/x/sys/windows/svc/debug"
 )
 
 
@@ -56,8 +57,8 @@ func runBody( stopChan chan bool) {
 
 
 func main() {
-	err := svc.Run("DummySvc", &dummySvc{})
-	// err := debug.Run("DummySvc", &dummySvc{})	// 디버깅 시 Console 출력
+	//err := svc.Run("DummySvc", &dummySvc{})
+	err := debug.Run("DummySvc", &dummySvc{})	// 디버깅 시 Console 출력
 	if err != nil {
 		log.Println(err)
 	}
