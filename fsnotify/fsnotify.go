@@ -25,7 +25,7 @@ func main() {
 		}
 	}()
 
-	err = watcher.Watch("C:\\")
+	err = watcher.Watch("C:\\Temp\\svc_log.txt")
 	if err != nil {
 		log.Fatal(err)
 	}
