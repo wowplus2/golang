@@ -1,0 +1,121 @@
+2017/09/28 11:16:25 sql: Scan error on column index 6: converting driver.Value type float64 ("22313.99") to a int: invalid syntax
+2017/09/28 11:16:33 sql: Scan error on column index 6: converting driver.Value type float64 ("18333.33") to a int: invalid syntax
+2017/09/28 11:16:58 sql: Scan error on column index 6: converting driver.Value type float64 ("2083.33") to a int: invalid syntax
+2017/09/28 11:30:07 sql: Scan error on column index 6: converting driver.Value type float64 ("22313.99") to a int: invalid syntax
+2017/09/28 11:30:08 sql: Scan error on column index 6: converting driver.Value type float64 ("22313.99") to a int: invalid syntax
+2017/09/28 11:30:09 sql: Scan error on column index 6: converting driver.Value type float64 ("22313.99") to a int: invalid syntax
+2017/09/28 11:30:10 sql: Scan error on column index 6: converting driver.Value type float64 ("22313.99") to a int: invalid syntax
+2017/09/28 11:30:11 sql: Scan error on column index 6: converting driver.Value type float64 ("22313.99") to a int: invalid syntax
+2017/09/28 11:30:12 sql: Scan error on column index 6: converting driver.Value type float64 ("22313.99") to a int: invalid syntax
+2017/09/28 11:34:19 sql: Scan error on column index 6: converting driver.Value type float64 ("18333.33") to a int: invalid syntax
+2017/09/28 11:34:20 sql: Scan error on column index 6: converting driver.Value type float64 ("18333.33") to a int: invalid syntax
+2017/09/28 11:34:21 sql: Scan error on column index 6: converting driver.Value type float64 ("18333.33") to a int: invalid syntax
+2017/09/28 11:34:22 sql: Scan error on column index 6: converting driver.Value type float64 ("18333.33") to a int: invalid syntax
+2017/09/28 11:34:23 sql: Scan error on column index 6: converting driver.Value type float64 ("18333.33") to a int: invalid syntax
+2017/09/28 11:34:24 sql: Scan error on column index 6: converting driver.Value type float64 ("18333.33") to a int: invalid syntax
+2017/09/28 11:34:25 sql: Scan error on column index 6: converting driver.Value type float64 ("18333.33") to a int: invalid syntax
+2017/09/28 11:45:24 Error 1064: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'INT) AS bgg_dcamount,
+			S.salepum_sale_danga AS bgg_sprice
+		FROM ssalepum AS S' at line 8
+2017/09/28 11:45:25 Error 1064: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'INT) AS bgg_dcamount,
+			S.salepum_sale_danga AS bgg_sprice
+		FROM ssalepum AS S' at line 8
+2017/09/28 11:45:26 Error 1064: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'INT) AS bgg_dcamount,
+			S.salepum_sale_danga AS bgg_sprice
+		FROM ssalepum AS S' at line 8
+2017/09/28 11:45:28 Error 1064: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'INT) AS bgg_dcamount,
+			S.salepum_sale_danga AS bgg_sprice
+		FROM ssalepum AS S' at line 8
+2017/09/28 11:45:29 Error 1064: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'INT) AS bgg_dcamount,
+			S.salepum_sale_danga AS bgg_sprice
+		FROM ssalepum AS S' at line 8
+2017/09/28 11:45:30 Error 1064: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'INT) AS bgg_dcamount,
+			S.salepum_sale_danga AS bgg_sprice
+		FROM ssalepum AS S' at line 8
+2017/09/28 11:45:31 Error 1064: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'INT) AS bgg_dcamount,
+			S.salepum_sale_danga AS bgg_sprice
+		FROM ssalepum AS S' at line 8
+2017/09/28 11:45:32 Error 1064: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'INT) AS bgg_dcamount,
+			S.salepum_sale_danga AS bgg_sprice
+		FROM ssalepum AS S' at line 8
+2017/09/28 11:45:33 Error 1064: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'INT) AS bgg_dcamount,
+			S.salepum_sale_danga AS bgg_sprice
+		FROM ssalepum AS S' at line 8
+2017/09/28 11:45:34 Error 1064: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'INT) AS bgg_dcamount,
+			S.salepum_sale_danga AS bgg_sprice
+		FROM ssalepum AS S' at line 8
+2017/09/28 11:45:35 Error 1064: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'INT) AS bgg_dcamount,
+			S.salepum_sale_danga AS bgg_sprice
+		FROM ssalepum AS S' at line 8
+2017/09/28 11:45:36 Error 1064: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'INT) AS bgg_dcamount,
+			S.salepum_sale_danga AS bgg_sprice
+		FROM ssalepum AS S' at line 8
+2017/09/28 11:45:37 Error 1064: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'INT) AS bgg_dcamount,
+			S.salepum_sale_danga AS bgg_sprice
+		FROM ssalepum AS S' at line 8
+2017/09/28 11:45:38 Error 1064: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'INT) AS bgg_dcamount,
+			S.salepum_sale_danga AS bgg_sprice
+		FROM ssalepum AS S' at line 8
+2017/09/28 11:45:39 Error 1064: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'INT) AS bgg_dcamount,
+			S.salepum_sale_danga AS bgg_sprice
+		FROM ssalepum AS S' at line 8
+2017/09/28 11:45:40 Error 1064: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'INT) AS bgg_dcamount,
+			S.salepum_sale_danga AS bgg_sprice
+		FROM ssalepum AS S' at line 8
+2017/09/28 11:45:41 Error 1064: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'INT) AS bgg_dcamount,
+			S.salepum_sale_danga AS bgg_sprice
+		FROM ssalepum AS S' at line 8
+2017/09/28 11:45:42 Error 1064: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'INT) AS bgg_dcamount,
+			S.salepum_sale_danga AS bgg_sprice
+		FROM ssalepum AS S' at line 8
+2017/09/28 11:45:43 Error 1064: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'INT) AS bgg_dcamount,
+			S.salepum_sale_danga AS bgg_sprice
+		FROM ssalepum AS S' at line 8
+2017/09/28 11:45:44 Error 1064: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'INT) AS bgg_dcamount,
+			S.salepum_sale_danga AS bgg_sprice
+		FROM ssalepum AS S' at line 8
+2017/09/28 11:45:45 Error 1064: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'INT) AS bgg_dcamount,
+			S.salepum_sale_danga AS bgg_sprice
+		FROM ssalepum AS S' at line 8
+2017/09/28 11:45:46 Error 1064: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'INT) AS bgg_dcamount,
+			S.salepum_sale_danga AS bgg_sprice
+		FROM ssalepum AS S' at line 8
+2017/09/28 11:45:47 Error 1064: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'INT) AS bgg_dcamount,
+			S.salepum_sale_danga AS bgg_sprice
+		FROM ssalepum AS S' at line 8
+2017/09/28 11:45:48 Error 1064: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'INT) AS bgg_dcamount,
+			S.salepum_sale_danga AS bgg_sprice
+		FROM ssalepum AS S' at line 8
+2017/09/28 11:45:49 Error 1064: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'INT) AS bgg_dcamount,
+			S.salepum_sale_danga AS bgg_sprice
+		FROM ssalepum AS S' at line 8
+2017/09/28 11:45:50 Error 1064: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'INT) AS bgg_dcamount,
+			S.salepum_sale_danga AS bgg_sprice
+		FROM ssalepum AS S' at line 8
+2017/09/28 11:45:51 Error 1064: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'INT) AS bgg_dcamount,
+			S.salepum_sale_danga AS bgg_sprice
+		FROM ssalepum AS S' at line 8
+2017/09/28 11:45:52 Error 1064: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'INT) AS bgg_dcamount,
+			S.salepum_sale_danga AS bgg_sprice
+		FROM ssalepum AS S' at line 8
+2017/09/28 11:45:53 Error 1064: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'INT) AS bgg_dcamount,
+			S.salepum_sale_danga AS bgg_sprice
+		FROM ssalepum AS S' at line 8
+2017/09/28 11:45:54 Error 1064: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'INT) AS bgg_dcamount,
+			S.salepum_sale_danga AS bgg_sprice
+		FROM ssalepum AS S' at line 8
+2017/09/28 11:45:56 Error 1064: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'INT) AS bgg_dcamount,
+			S.salepum_sale_danga AS bgg_sprice
+		FROM ssalepum AS S' at line 8
+2017/09/28 11:45:57 Error 1064: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'INT) AS bgg_dcamount,
+			S.salepum_sale_danga AS bgg_sprice
+		FROM ssalepum AS S' at line 8
+2017/09/28 11:45:58 Error 1064: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'INT) AS bgg_dcamount,
+			S.salepum_sale_danga AS bgg_sprice
+		FROM ssalepum AS S' at line 8
+2017/09/28 11:45:59 Error 1064: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'INT) AS bgg_dcamount,
+			S.salepum_sale_danga AS bgg_sprice
+		FROM ssalepum AS S' at line 8
+2017/09/28 11:46:00 Error 1064: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'INT) AS bgg_dcamount,
+			S.salepum_sale_danga AS bgg_sprice
+		FROM ssalepum AS S' at line 8

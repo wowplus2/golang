@@ -1,0 +1,24 @@
+2017/09/27 17:06:05 sql: unknown driver "mysql" (forgotten import?)
+2017/09/27 17:07:13 sql: unknown driver "mysql" (forgotten import?)
+2017/09/27 17:07:37 2017-09-27 17:07:37.0688626 +0900 KST: Unknown worker position.(Mode:sample)
+2017/09/27 17:08:17 2017-09-27 17:08:17.1278528 +0900 KST: Start POS Record Transmitter.(Mode:sample)
+2017/09/27 17:08:17 2017-09-27 17:08:17.2049528 +0900 KST: Unknown worker position.(Mode:sample)
+2017/09/27 17:09:15 2017-09-27 17:09:14.9245283 +0900 KST: Start POS Record Transmitter.(Mode:ping)
+2017/09/27 17:09:15 sql: unknown driver "mysql" (forgotten import?)
+2017/09/27 17:09:41 sql: unknown driver "mysql" (forgotten import?)
+2017/09/27 17:10:31 sql: unknown driver "mysql" (forgotten import?)
+2017/09/27 17:10:31 sql: unknown driver "mysql" (forgotten import?)
+2017/09/27 17:11:02 sql: unknown driver "mysql" (forgotten import?)
+2017/09/27 17:12:41 sql: unknown driver "mysql" (forgotten import?)
+2017/09/27 17:20:59 Error 1064: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'FROM zmbpan AS N
+				INNER JOIN smember AS M ON M.member_code = N.mbpan_member_c' at line 2
+2017/09/27 17:25:28 Error 1064: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'FROM zmbpan AS N INNER JOIN smember AS M ON M.member_code = N.mbpan_member_code ' at line 1
+2017/09/27 17:28:17 Error 1064: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'FROM zmbpan AS N INNER JOIN smember AS M ON M.member_code = N.mbpan_member_code ' at line 1
+2017/09/27 17:34:46 Error 1064: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'FROM zmbpan AS N
+				INNER JOIN smember AS M ON M.member_code = N.mbpan_member_c' at line 2
+2017/09/27 17:38:16 2017-09-27 17:38:16.3448195 +0900 KST: SELECT COUNT(*), CONVERT(DATE_FORMAT(DATE_SUB(DATE(NOW()), INTERVAL ? DAY), '%%y-%%m-%%d')
+			FROM zmbpan AS N
+				INNER JOIN smember AS M ON M.member_code = N.mbpan_member_code
+				INNER JOIN zpanme AS P ON P.panme_jum = N.mbpan_jum AND P.panme_key_date = N.mbpan_key_date AND P.panme_pos_no = N.mbpan_pos_no AND P.panme_junpo_no = N.mbpan_junpo_no
+				WHERE P.panme_key_date = CONVERT(DATE_FORMAT(DATE_SUB(DATE(NOW()), INTERVAL ? DAY), '%%y-%%m-%%d'), CHAR(8))
+					AND P.panme_dam_name != '' AND P.panme_rec_type < 6
